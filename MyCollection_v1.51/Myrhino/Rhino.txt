@@ -1,0 +1,6 @@
+CYL @圆柱体kkk
+BOX @正方体
+Sphere @球体
+CYLT @圆柱体测试
+BOXT @正方体测试
+SphereT @球体测试
