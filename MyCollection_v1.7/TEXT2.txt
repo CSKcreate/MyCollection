@@ -1,0 +1,30 @@
+# 目录树状态文件
+# 格式: 节点类型|节点名称|路径|是否展开|颜色
+# 节点类型: D=目录, F=文件
+D|MyAlias|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyAlias|False|#FF000000
+D|Myblender|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\Myblender|False|#FF000000
+F|GoodTool|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\Myblender\GoodTool.txt|False|#FF000000
+D|MyDesk|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyDesk|False|#FF000000
+D|新建文件夹|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyDesk\新建文件夹|False|#FF000000
+D|MyOffice|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyOffice|False|#FF000000
+D|Myrhino|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\Myrhino|False|#FF000000
+F|动画4|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\Myrhino\动画4.txt|False|#FF000000
+D|MyWebsites|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites|True|#FF000000
+D|China|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\China|True|#FF000000
+F|Daily Use|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\China\Daily Use.txt|False|#FF008000
+F|Design Need|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\China\Design Need.txt|False|#FF008000
+F|GoodTool|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\China\GoodTool.txt|False|#FF008000
+D|Software|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software|True|#FFFF0000
+F|Autodesk|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\Autodesk.txt|False|#FF008000
+F|Blender|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\Blender.txt|False|#FF000000
+F|GameEngine|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\GameEngine.txt|False|#FF000000
+F|Illustrator(AI)|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\Illustrator(AI).txt|False|#FF000000
+F|Live2D|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\Live2D.txt|False|#FF000000
+F|Plasticity|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\Plasticity.txt|False|#FFFF0000
+F|PS Plugin|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\PS Plugin.txt|False|#FF000000
+F|Rhino|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\Rhino.txt|False|#FF000000
+F|SP|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\Software\SP.txt|False|#FF000000
+D|VPN|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\VPN|True|#FFFF0000
+F|181818|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\VPN\181818.txt|False|#FFFF0000
+F|Daily Use|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\VPN\Daily Use.txt|False|#FF000000
+F|Design Need|C:\Users\Administrator\Desktop\KKwindows\WebCollection new1.7\bin\Release\net7.0-windows\MyWebsites\VPN\Design Need.txt|False|#FF000000
