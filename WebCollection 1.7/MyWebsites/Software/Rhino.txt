@@ -1,7 +1,0 @@
-《Grasshopper电池辞典》 https://docs.rhino3d.com.cn/gh/Params/23
-《Food4Rhino》 https://www.food4rhino.com/en
-Rhino7在线帮助 https://docs.mcneel.com/rhino/7/help/zh-cn/index.htm
-Rhino8在线帮助 https://docs.mcneel.com/rhino/8/help/zh-cn/index.htm
-Rhino在线查看器 https://mccad.jp/webapp/3dm-viewer/
-Rhino中国原厂官网 https://bbs.rhino3d.asia/
-RhinoWiki https://wiki.mcneel.com/rhino/6/advanceddisplay

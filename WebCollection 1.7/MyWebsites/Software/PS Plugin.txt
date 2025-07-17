@@ -1,2 +1,0 @@
-ico格式导出插件下载地址 https://www.telegraphics.net/sw/product/ICOFormat
-exrio分层读取插件下载地址 https://www.exr-io.com/
